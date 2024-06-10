@@ -1,0 +1,67 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: blueviolet;
+    font-weight: bolder;
+}
+
+.header-home {
+    margin: 20px auto;
+    width: fit-content;
+}
+
+h2 {
+    color:deeppink
+}
+
+h3 {
+    color: darkblue;
+}
+
+.recipes-list {
+    box-sizing: content-box;
+    line-height: 25px;
+    border: 2px dotted palevioletred;
+    width: fit-content;
+    padding: 50px 70px;
+    margin: 20px auto;
+}
+
+.recipe-info {
+    line-height: 30px;
+}
+
+.recipe-info li {
+    list-style: circle;
+}
+
+.recipe-info strong {
+    color: rosybrown;
+}
+
+.ingredients-list {
+    line-height: 30px;
+    letter-spacing: 1px;
+    list-style: circle;
+}
+
+a {
+    color:deeppink
+}
+
+a:hover {
+    color: darkslateblue;
+    font-weight: bolder;
+}
+
+.header-img {
+    margin: 20px auto;
+    width: fit-content;
+    padding: 20px;
+}
+
+.recipes-list-box {
+}
+
